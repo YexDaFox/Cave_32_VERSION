@@ -1,6 +1,10 @@
 {
   "version": "1.1.1",
-  "detalles": "Añadido nuevo nivel y corrección de bugs.",
+  "detalles": {
+    "es": "Añadido nuevo nivel y corrección de bugs.",
+    "en": "Added new level and bug fixes.",
+    "pt": "Novo nível adicionado e correções de bugs."
+  },
   "link": "https://yeremixsb.itch.io/cave-32",
   "obligatoria": false
 }
